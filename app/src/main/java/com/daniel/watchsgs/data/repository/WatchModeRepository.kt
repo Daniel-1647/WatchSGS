@@ -4,7 +4,6 @@ import com.daniel.watchsgs.data.api.WatchModeAPI
 import com.daniel.watchsgs.data.model.TitleDetails
 import com.daniel.watchsgs.data.model.TitlesResponse
 import com.daniel.watchsgs.util.Constants
-import com.daniel.watchsgs.util.Logger
 import io.reactivex.rxjava3.core.Single
 import javax.inject.Inject
 

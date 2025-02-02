@@ -80,7 +80,7 @@ fun Details(titleDetails: TitleDetails) {
             color = MaterialTheme.colorScheme.onSurface
         )
 
-        if (titleDetails.trailer.isNotBlank()){
+        if (!titleDetails.trailer.isNullOrBlank()){
             WatchTrailerButton(titleDetails.trailer)
         }
     }

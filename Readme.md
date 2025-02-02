@@ -32,8 +32,8 @@ to recommend Movies & TV shows.
 4. Build and run the application.
 
 ## Sample Video
-https://github.com/user-attachments/assets/4b818dee-aaa0-4afe-995a-ddd9b2406995
+https://github.com/daniel-1647/watchsgs/assets/sample.mp4
 
 ## Credits
-- Vectors and icons by [SVG Repo](https://www.svgrepo.com)
+Vectors and icons by [SVG Repo](https://www.svgrepo.com)
 ---
